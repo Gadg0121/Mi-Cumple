@@ -58,6 +58,34 @@
       margin-top: 30px;
       font-style: italic;
     }
+
+    @media (max-width: 768px) {
+      body {
+        background-size: cover;
+        background-position: center;
+      }
+
+      .content {
+        padding: 20px;
+        background-size: contain;
+        background-position: top center;
+      }
+
+      .form-container {
+        height: 500px;
+      }
+    }
+
+    @media (min-width: 769px) {
+      .content {
+        background-size: cover;
+        background-position: center;
+      }
+
+      .form-container {
+        height: 650px;
+      }
+    }
   </style>
 </head>
 <body>
