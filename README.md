@@ -93,7 +93,7 @@
   <div class="content">
     <h1>🎉 ¡Estás invitado a la fiesta de cumpleaños de Aymara Adilene! 🎉</h1>
 
-    <p>Será una tarde llena de diversión, juegos, música y muchas sorpresas 🎁</p>
+    <p>Será una tarde llena de diversión y música 🎶</p>
 
     <ul>
       <li><strong>📅 Fecha:</strong> 01 de mayo de 2025</li>
