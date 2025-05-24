@@ -96,7 +96,7 @@
     <p>Será una tarde llena de diversión y música 🎶</p>
 
     <ul>
-      <li><strong>📅 Fecha:</strong> 01 de mayo de 2025</li>
+      <li><strong>📅 Fecha:</strong> 01 de Junio de 2025</li>
       <li><strong>🕒 Hora:</strong> 6:00 PM</li>
       <li><strong>📍 Lugar:</strong> <a href="https://maps.app.goo.gl/hRcFUc3uQSmn2mKXA" target="_blank">Col. Polanco, Calle 2 de Abril</a></li>
       <li><strong>🎁</strong> No olvides tu regalo</li>
@@ -105,14 +105,14 @@
     <p>¡No faltes, tu presencia hará este día aún más especial!</p>
 
     <h2>📋 Confirmación de asistencia</h2>
-    <p>Por favor confirma tu asistencia llenando este formulario antes del <strong>25 de abril de 2025</strong>:</p>
+    <p>Por favor confirma tu asistencia llenando este formulario antes del <strong>30 de mayo de 2025</strong>:</p>
 
     <div class="form-container"> 
       <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSc05PYH7AgwikU6mqnx3YLoznTJrKhFt9IqRWHWtlhqaP2riA/viewform?embedded=true">Cargando…</iframe>
     </div>
 
     <div class="footer">
-      📱 Para más información, comunícate al [tu número de contacto]
+      📱 Para más información, comunícate al 753 
     </div>
   </div>
 
