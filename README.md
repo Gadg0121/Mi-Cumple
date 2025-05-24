@@ -97,8 +97,8 @@
 
     <ul>
       <li><strong>📅 Fecha:</strong> 01 de mayo de 2025</li>
-      <li><strong>🕒 Hora:</strong> [Hora de inicio]</li>
-      <li><strong>📍 Lugar:</strong> [Dirección del evento]</li>
+      <li><strong>🕒 Hora:</strong> 6:00 PM</li>
+      <li><strong>📍 Lugar:</strong> Col. Polanco, Calle 2 de Abril</li>
     </ul>
 
     <p>¡No faltes, tu presencia hará este día aún más especial!</p>
