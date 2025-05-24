@@ -98,7 +98,7 @@
     <ul>
       <li><strong>📅 Fecha:</strong> 01 de mayo de 2025</li>
       <li><strong>🕒 Hora:</strong> 6:00 PM</li>
-      <li><strong>📍 Lugar:</strong> Col. Polanco, Calle 2 de Abril</li>
+      <li><strong>📍 Lugar:</strong> <a href="https://maps.app.goo.gl/hRcFUc3uQSmn2mKXA" target="_blank">Col. Polanco, Calle 2 de Abril</a></li>
       <li><strong>🎁</strong> No olvides tu regalo</li>
     </ul>
 
