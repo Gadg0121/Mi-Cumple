@@ -5,33 +5,55 @@
   <title>Invitación de Cumpleaños - Aymara Adilene</title>
   <style>
     body {
+      margin: 0;
+      padding: 0;
       font-family: Arial, sans-serif;
-      background-color: #fff8f0;
+      background: url('minios.jpg') no-repeat center center fixed;
+      background-size: cover;
       color: #333;
-      padding: 20px;
-      max-width: 800px;
-      margin: auto;
-      border: 2px solid #ff8fab;
-      border-radius: 15px;
     }
+
+    .content {
+      background: url('minionblanco.jpg') no-repeat center center;
+      background-size: cover;
+      max-width: 800px;
+      margin: 30px auto;
+      padding: 30px;
+      border-radius: 15px;
+      border: 2px solid #ff8fab;
+      background-color: rgba(255, 255, 255, 0.85);
+    }
+
     h1, h2 {
       color: #ff5e78;
       text-align: center;
     }
-    table {
+
+    ul {
+      list-style: none;
+      padding: 0;
+    }
+
+    li {
+      margin-bottom: 10px;
+    }
+
+    .form-container {
+      position: relative;
       width: 100%;
-      border-collapse: collapse;
-      margin-top: 20px;
-      background-color: #fff;
+      height: 650px;
+      margin-top: 30px;
     }
-    th, td {
-      border: 1px solid #ffb3c1;
-      padding: 10px;
-      text-align: center;
+
+    .form-container iframe {
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      border: none;
     }
-    th {
-      background-color: #ffe2e6;
-    }
+
     .footer {
       text-align: center;
       margin-top: 30px;
@@ -40,22 +62,31 @@
   </style>
 </head>
 <body>
-  <h1>?? ¡Estás invitado a la fiesta de cumpleaños de Aymara Adilene! ??</h1>
 
-  <p>Será una tarde llena de diversión, juegos, música y muchas sorpresas ??</p>
+  <div class="content">
+    <h1>🎉 ¡Estás invitado a la fiesta de cumpleaños de Aymara Adilene! 🎉</h1>
 
-  <ul>
-    <li><strong>?? Fecha:</strong> 01 de mayo de 2025</li>
-    <li><strong>?? Hora:</strong> [Hora de inicio]</li>
-    <li><strong>?? Lugar:</strong> [Dirección del evento]</li>
-  </ul>
+    <p>Será una tarde llena de diversión, juegos, música y muchas sorpresas 🎁</p>
 
-  <p>¡No faltes, tu presencia hará este día aún más especial!</p>
+    <ul>
+      <li><strong>📅 Fecha:</strong> 01 de mayo de 2025</li>
+      <li><strong>🕒 Hora:</strong> [Hora de inicio]</li>
+      <li><strong>📍 Lugar:</strong> [Dirección del evento]</li>
+    </ul>
 
-  <h2>?? Confirmación de asistencia</h2>
-<p>
-  Por favor confirma tu asistencia llenando este formulario:<br>
- <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSc05PYH7AgwikU6mqnx3YLoznTJrKhFt9IqRWHWtlhqaP2riA/viewform?embedded=true" width="640" height="624" frameborder="0" marginheight="0" marginwidth="0">Cargando…</iframe>
-</p>
+    <p>¡No faltes, tu presencia hará este día aún más especial!</p>
+
+    <h2>📋 Confirmación de asistencia</h2>
+    <p>Por favor confirma tu asistencia llenando este formulario antes del <strong>25 de abril de 2025</strong>:</p>
+
+    <div class="form-container"> 
+      <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSc05PYH7AgwikU6mqnx3YLoznTJrKhFt9IqRWHWtlhqaP2riA/viewform?embedded=true">Cargando…</iframe>
+    </div>
+
+    <div class="footer">
+      📱 Para más información, comunícate al [tu número de contacto]
+    </div>
+  </div>
+
 </body>
 </html>
